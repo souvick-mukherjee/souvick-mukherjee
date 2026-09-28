@@ -2,15 +2,6 @@
 
 <h3 align="center">Software Engineer | Java & Spring Boot | Full-Stack Development | AI/ML Enthusiast</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/souvick-mukherjee">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:souvick.mukherjee871@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
